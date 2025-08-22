@@ -1,6 +1,9 @@
 
---->
-[ReadMe.md](https://github.com/user-attachments/files/21579648/ReadMe.md)
+# 👋 Hi, I'm Sandeep Mahato  
+
+🎓 Final Year Integrated B.Tech + M.Tech CSE Student at Central University of Jharkhand.  
+💡 Passionate about Machine Learning, Data Science, Software Development, and Research work.  
+🌱 Currently learning Cloud, Machine Learning, Research work.  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sandeepmahato881) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandeep-mahato-a31b4a256/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandeepmahato4891@gmail.com) 
